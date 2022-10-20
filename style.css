@@ -1,0 +1,284 @@
+.todos {
+    padding: 0px 0px 0px 85px;
+}
+
+.servico {
+    padding-left: 85px;
+    top: 345px;
+    font-family: Verdana, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 85px;
+    letter-spacing: 0.01em;
+    color: #00D318;
+    margin-top: 1%;
+}
+
+.logo {
+    padding-left: 85px;
+    width: 170px;
+    height: 170px;   
+}
+
+.principais {
+    padding-left: 85px;
+    top: 745px;
+    font-family: 'Simplon BP';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 65px;
+    color: #000000;
+}
+
+.principais2 {
+    padding-left: 85px;
+    top: 851px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 38px;
+    letter-spacing: 0.01em;
+    color: #57585B;
+}
+
+.veja {
+    padding-left: 85px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+
+.vejaverde {
+    top: 1152px;
+    background: #00D318;
+    width: 100%;
+    padding-top: 85px;
+    padding-bottom: 85px;   
+}
+
+.servico2 {
+    padding-left: 85px;
+    top: 1665px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 56px;
+    color: #00D318;
+}
+
+.justica {
+    padding-left: 85px;
+    top: 1665px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 38px;
+    letter-spacing: 0.01em;
+    color: #57585B;
+
+}
+
+.ecossistema {
+    padding-left: 85px;
+    top: 2499px;
+    font-family: 'Simplon BP';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 56px;
+    color: #00D318;
+}
+
+.imgeco {
+    padding: 0px 0px 0px 85px;
+}
+
+.faq {
+    padding-left: 85px;
+    top: 4278px;
+    font-family: 'Simplon BP';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 56px;
+    color: #00D318;
+}
+
+.faq01 { 
+    
+    height: 230px;
+    top: 4390px;
+    background: #F4F4F4;
+    text-indent: 25px;   
+}
+
+.label01 {
+    
+    font-family: 'Simplon BP';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 50px;
+    color: #444444;
+    text-indent: 25px;
+}
+
+.label02 {
+    
+    height: 115px;
+    left: 252px;
+    top: 4627px;
+    font-family: 'Simplon BP';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 30px;
+    color: #444444;
+    text-indent: 25px;
+}
+
+.faq02 {
+    
+    top: 4973px;
+    font-family: 'Simplon BP';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    color: #444444;
+    background: #F4F4F4;
+    text-indent: 25px;
+
+}
+
+.faq03 {
+    
+    top: 5178px;
+    background: #F4F4F4;
+    font-family: 'Simplon BP';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    color: #444444;
+    text-indent: 25px;
+}
+
+.faq04 {
+    
+    top: 5383px;
+    font-family: 'Simplon BP';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    color: #444444;
+    background: #F4F4F4;
+    text-indent: 25px;
+}
+
+.faq05 {
+    
+    top: 5588px;
+    background: #F4F4F4;
+    font-family: 'Simplon BP';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    color: #444444;
+    text-indent: 25px;
+}
+
+.faq06 {
+    
+    top: 5793px;
+    font-family: 'Simplon BP';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    color: #444444;
+    background: #F4F4F4;
+    text-indent: 25px;
+}
+
+.faq07 {
+    
+    top: 5998px;
+    text-indent: 25px;
+    font-family: 'Simplon BP';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 36px;
+    background: #F4F4F4;
+    color: #444444;
+}
+
+.faq08 {
+    
+    top: 6183px;
+    background: #F4F4F4;
+    font-family: 'Simplon BP';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 10px;
+    text-indent: 25px;
+    color: #444444;
+}
+
+.faq09 {
+   
+    top: 6407px;
+    text-indent: 25px;
+    font-family: 'Simplon BP';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 38px;
+    background: #F4F4F4;
+    color: #444444;
+}
+
+.faq10 {
+    
+    top: 6593px;
+    background: #F4F4F4;
+    font-family: 'Simplon BP';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 38px;
+    text-indent: 25px;
+    color: #444444;
+}
+
+.label08 {
+   
+    top: 4627px;
+    font-family: 'Simplon BP';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #444444;
+    text-indent: 25px;
+}
+
+.finallogo {
+    padding-left: 70px;
+    width: 150px;
+    height: 150px;
+    padding-left: 0px;
+}
